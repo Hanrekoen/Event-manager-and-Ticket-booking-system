@@ -24,43 +24,6 @@ A full-stack web application built for Advanced Events (Pty) Ltd to manage event
 - method-override for PUT/DELETE support
 - nodemon for local development
 
-## Team Members and Roles
-
-### 👩‍💼 Role 1: Team Lead / Project Coordinator / Co Backend developer
-**Mickayla Combrink (602923)**
-- Oversee project progress and ensure deadlines are met
-- Coordinate tasks among team members and manage GitHub collaboration
-- Ensure MVC architecture is consistently applied across all modules
-- Prepare and lead the final presentation
-- Co Backend developer
-
-### 🖥️ Role 2: Backend Developer
-**Hanre Koen (601225)**
-- Implement core server logic using Node.js and Express
-- Develop controllers for authentication, event management, booking, and enquiries
-- Integrate middleware for error handling, authentication, and authorization
-- Develop CRUD operations 
-
-### 🎨 Role 3: Frontend Developer
-**Hendrik Stephanus Smith (600519)**
-- Build EJS templates for all five mandatory pages
-- Implement search and filtering features on the event listing page
-- Ensure responsive design using CSS/Bootstrap
-
-### 🗄️ Role 4: Database Engineer
-**Emmanuel Chinomso Ugo Nzotta (600692)**
-- Design MongoDB schemas using Mongoose (Users, Events, Bookings, Enquiries)
-- Implement schema validation and relationships
-- Optimize queries for event filtering and analytics dashboards
-
-### 🔒 Role 5: Security / DevOps Engineer
-**Emmanuel Teodor Booysen Joao (601270)**
-- Implement password hashing (bcrypt) and secure authentication (express-session)
-- Enforce role-based access control via middleware (isAuthenticated, isAdmin)
-- Manage environment variables securely with dotenv
-- Maintain .gitignore and ensure no sensitive data in version control
-- Set up GitHub workflows for collaboration and deployment readiness
-
 ## Setup Instructions
 
 ### Prerequisites
